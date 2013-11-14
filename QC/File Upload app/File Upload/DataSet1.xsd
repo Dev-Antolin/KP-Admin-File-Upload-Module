@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DuplicateTable" msprop:Generator_UserTableName="DuplicateTable" msprop:Generator_RowDeletedName="DuplicateTableRowDeleted" msprop:Generator_RowChangedName="DuplicateTableRowChanged" msprop:Generator_RowClassName="DuplicateTableRow" msprop:Generator_RowChangingName="DuplicateTableRowChanging" msprop:Generator_RowEvArgName="DuplicateTableRowChangeEvent" msprop:Generator_RowEvHandlerName="DuplicateTableRowChangeEventHandler" msprop:Generator_TableClassName="DuplicateTableDataTable" msprop:Generator_TableVarName="tableDuplicateTable" msprop:Generator_RowDeletingName="DuplicateTableRowDeleting" msprop:Generator_TablePropName="DuplicateTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" />
+              <xs:element name="RefDuplicate" msprop:Generator_UserColumnName="RefDuplicate" msprop:Generator_ColumnVarNameInTable="columnRefDuplicate" msprop:Generator_ColumnPropNameInRow="RefDuplicate" msprop:Generator_ColumnPropNameInTable="RefDuplicateColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ErrorInserting" msprop:Generator_UserTableName="ErrorInserting" msprop:Generator_RowDeletedName="ErrorInsertingRowDeleted" msprop:Generator_RowChangedName="ErrorInsertingRowChanged" msprop:Generator_RowClassName="ErrorInsertingRow" msprop:Generator_RowChangingName="ErrorInsertingRowChanging" msprop:Generator_RowEvArgName="ErrorInsertingRowChangeEvent" msprop:Generator_RowEvHandlerName="ErrorInsertingRowChangeEventHandler" msprop:Generator_TableClassName="ErrorInsertingDataTable" msprop:Generator_TableVarName="tableErrorInserting" msprop:Generator_RowDeletingName="ErrorInsertingRowDeleting" msprop:Generator_TablePropName="ErrorInserting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" />
+              <xs:element name="RefErrorInserting" msprop:Generator_UserColumnName="RefErrorInserting" msprop:Generator_ColumnVarNameInTable="columnRefErrorInserting" msprop:Generator_ColumnPropNameInRow="RefErrorInserting" msprop:Generator_ColumnPropNameInTable="RefErrorInsertingColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ErrorTierCode" msprop:Generator_UserTableName="ErrorTierCode" msprop:Generator_RowDeletedName="ErrorTierCodeRowDeleted" msprop:Generator_RowChangedName="ErrorTierCodeRowChanged" msprop:Generator_RowClassName="ErrorTierCodeRow" msprop:Generator_RowChangingName="ErrorTierCodeRowChanging" msprop:Generator_RowEvArgName="ErrorTierCodeRowChangeEvent" msprop:Generator_RowEvHandlerName="ErrorTierCodeRowChangeEventHandler" msprop:Generator_TableClassName="ErrorTierCodeDataTable" msprop:Generator_TableVarName="tableErrorTierCode" msprop:Generator_RowDeletingName="ErrorTierCodeRowDeleting" msprop:Generator_TablePropName="ErrorTierCode">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" />
+              <xs:element name="RefErrorTierCode" msprop:Generator_UserColumnName="RefErrorTierCode" msprop:Generator_ColumnVarNameInTable="columnRefErrorTierCode" msprop:Generator_ColumnPropNameInRow="RefErrorTierCode" msprop:Generator_ColumnPropNameInTable="RefErrorTierCodeColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MergeTable" msprop:Generator_UserTableName="MergeTable" msprop:Generator_RowDeletedName="MergeTableRowDeleted" msprop:Generator_RowChangedName="MergeTableRowChanged" msprop:Generator_RowClassName="MergeTableRow" msprop:Generator_RowChangingName="MergeTableRowChanging" msprop:Generator_RowEvArgName="MergeTableRowChangeEvent" msprop:Generator_RowEvHandlerName="MergeTableRowChangeEventHandler" msprop:Generator_TableClassName="MergeTableDataTable" msprop:Generator_TableVarName="tableMergeTable" msprop:Generator_RowDeletingName="MergeTableRowDeleting" msprop:Generator_TablePropName="MergeTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" />
+              <xs:element name="RefDuplicate" msprop:Generator_UserColumnName="RefDuplicate" msprop:Generator_ColumnVarNameInTable="columnRefDuplicate" msprop:Generator_ColumnPropNameInRow="RefDuplicate" msprop:Generator_ColumnPropNameInTable="RefDuplicateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RefErrorInserting" msprop:Generator_UserColumnName="RefErrorInserting" msprop:Generator_ColumnVarNameInTable="columnRefErrorInserting" msprop:Generator_ColumnPropNameInRow="RefErrorInserting" msprop:Generator_ColumnPropNameInTable="RefErrorInsertingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RefErrorTierCode" msprop:Generator_UserColumnName="RefErrorTierCode" msprop:Generator_ColumnVarNameInTable="columnRefErrorTierCode" msprop:Generator_ColumnPropNameInRow="RefErrorTierCode" msprop:Generator_ColumnPropNameInTable="RefErrorTierCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="kptn" msprop:Generator_UserColumnName="kptn" msprop:Generator_ColumnPropNameInRow="kptn" msprop:Generator_ColumnVarNameInTable="columnkptn" msprop:Generator_ColumnPropNameInTable="kptnColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="refno" msprop:Generator_UserColumnName="refno" msprop:Generator_ColumnVarNameInTable="columnrefno" msprop:Generator_ColumnPropNameInRow="refno" msprop:Generator_ColumnPropNameInTable="refnoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Sname" msprop:Generator_UserColumnName="Sname" msprop:Generator_ColumnVarNameInTable="columnSname" msprop:Generator_ColumnPropNameInRow="Sname" msprop:Generator_ColumnPropNameInTable="SnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Rname" msprop:Generator_UserColumnName="Rname" msprop:Generator_ColumnVarNameInTable="columnRname" msprop:Generator_ColumnPropNameInRow="Rname" msprop:Generator_ColumnPropNameInTable="RnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Currency" msprop:Generator_UserColumnName="Currency" msprop:Generator_ColumnVarNameInTable="columnCurrency" msprop:Generator_ColumnPropNameInRow="Currency" msprop:Generator_ColumnPropNameInTable="CurrencyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAmount" msprop:Generator_UserColumnName="PAmount" msprop:Generator_ColumnVarNameInTable="columnPAmount" msprop:Generator_ColumnPropNameInRow="PAmount" msprop:Generator_ColumnPropNameInTable="PAmountColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Charges" msprop:Generator_UserColumnName="Charges" msprop:Generator_ColumnVarNameInTable="columnCharges" msprop:Generator_ColumnPropNameInRow="Charges" msprop:Generator_ColumnPropNameInTable="ChargesColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Error" msprop:Generator_UserColumnName="Error" msprop:Generator_ColumnPropNameInRow="_Error" msprop:Generator_ColumnVarNameInTable="columnError" msprop:Generator_ColumnPropNameInTable="ErrorColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="InsertSuccess" msprop:Generator_UserTableName="InsertSuccess" msprop:Generator_RowDeletedName="InsertSuccessRowDeleted" msprop:Generator_RowChangedName="InsertSuccessRowChanged" msprop:Generator_RowClassName="InsertSuccessRow" msprop:Generator_RowChangingName="InsertSuccessRowChanging" msprop:Generator_RowEvArgName="InsertSuccessRowChangeEvent" msprop:Generator_RowEvHandlerName="InsertSuccessRowChangeEventHandler" msprop:Generator_TableClassName="InsertSuccessDataTable" msprop:Generator_TableVarName="tableInsertSuccess" msprop:Generator_RowDeletingName="InsertSuccessRowDeleting" msprop:Generator_TablePropName="InsertSuccess">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:string" />
+              <xs:element name="kptn" msprop:Generator_UserColumnName="kptn" msprop:Generator_ColumnPropNameInRow="kptn" msprop:Generator_ColumnVarNameInTable="columnkptn" msprop:Generator_ColumnPropNameInTable="kptnColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="refno" msprop:Generator_UserColumnName="refno" msprop:Generator_ColumnVarNameInTable="columnrefno" msprop:Generator_ColumnPropNameInRow="refno" msprop:Generator_ColumnPropNameInTable="refnoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Sname" msprop:Generator_UserColumnName="Sname" msprop:Generator_ColumnVarNameInTable="columnSname" msprop:Generator_ColumnPropNameInRow="Sname" msprop:Generator_ColumnPropNameInTable="SnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Rname" msprop:Generator_UserColumnName="Rname" msprop:Generator_ColumnVarNameInTable="columnRname" msprop:Generator_ColumnPropNameInRow="Rname" msprop:Generator_ColumnPropNameInTable="RnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Currency" msprop:Generator_UserColumnName="Currency" msprop:Generator_ColumnVarNameInTable="columnCurrency" msprop:Generator_ColumnPropNameInRow="Currency" msprop:Generator_ColumnPropNameInTable="CurrencyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAmount" msprop:Generator_UserColumnName="PAmount" msprop:Generator_ColumnVarNameInTable="columnPAmount" msprop:Generator_ColumnPropNameInRow="PAmount" msprop:Generator_ColumnPropNameInTable="PAmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Charges" msprop:Generator_UserColumnName="Charges" msprop:Generator_ColumnVarNameInTable="columnCharges" msprop:Generator_ColumnPropNameInRow="Charges" msprop:Generator_ColumnPropNameInTable="ChargesColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Error" msprop:Generator_UserColumnName="Error" msprop:Generator_ColumnPropNameInRow="_Error" msprop:Generator_ColumnVarNameInTable="columnError" msprop:Generator_ColumnPropNameInTable="ErrorColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DuplicateTable" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="ErrorInserting_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ErrorInserting" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="ErrorTierCode_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ErrorTierCode" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="MergeTable_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MergeTable" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="InsertSuccess_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:InsertSuccess" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

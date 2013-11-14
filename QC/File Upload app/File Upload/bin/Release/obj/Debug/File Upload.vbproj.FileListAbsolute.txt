@@ -1,0 +1,30 @@
+C:\2008\File Upload\File Upload\bin\Debug\File Upload.exe
+C:\2008\File Upload\File Upload\bin\Debug\File Upload.pdb
+C:\2008\File Upload\File Upload\bin\Debug\File Upload.xml
+C:\2008\File Upload\File Upload\obj\Debug\ResolveAssemblyReference.cache
+C:\2008\File Upload\File Upload\obj\Debug\File_Upload.Form1.resources
+C:\2008\File Upload\File Upload\obj\Debug\File_Upload.Resources.resources
+C:\2008\File Upload\File Upload\obj\Debug\File Upload.vbproj.GenerateResource.Cache
+C:\2008\File Upload\File Upload\obj\Debug\File Upload.exe
+C:\2008\File Upload\File Upload\obj\Debug\File Upload.xml
+C:\2008\File Upload\File Upload\obj\Debug\File Upload.pdb
+C:\Users\kentoy\Desktop\File Upload\File Upload\obj\Debug\File Upload.exe
+C:\Users\kentoy\Desktop\File Upload\File Upload\obj\Debug\File Upload.xml
+C:\Users\kentoy\Desktop\File Upload\File Upload\obj\Debug\File Upload.pdb
+C:\Users\kentoy\Desktop\File Upload\File Upload\bin\Debug\File Upload.exe
+C:\Users\kentoy\Desktop\File Upload\File Upload\bin\Debug\File Upload.pdb
+C:\Users\kentoy\Desktop\File Upload\File Upload\bin\Debug\File Upload.xml
+C:\Users\kentoy\Desktop\File Upload\File Upload\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kentoy\Desktop\File Upload\File Upload\obj\Debug\File_Upload.Form1.resources
+C:\Users\kentoy\Desktop\File Upload\File Upload\obj\Debug\File_Upload.Resources.resources
+C:\Users\kentoy\Desktop\File Upload\File Upload\obj\Debug\File Upload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Debug\File Upload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Debug\FileUpload.exe
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Debug\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Debug\FileUpload.xml
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Debug\FileUpload.Form1.resources
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Debug\FileUpload.Resources.resources
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Debug\FileUpload.exe
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Debug\FileUpload.xml
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Debug\FileUpload.pdb
