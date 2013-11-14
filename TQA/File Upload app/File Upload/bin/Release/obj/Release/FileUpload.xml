@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FileUpload
+</name>
+</assembly>
+<members>
+<member name="P:FileUpload.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FileUpload.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FileUpload.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.#ctor">
+	<remarks/>
+</member><member name="E:FileUpload.FileUpload.MLhuillier.FileUploadCompleted">
+	<remarks/>
+</member><member name="E:FileUpload.FileUpload.MLhuillier.ListofPartnersCompleted">
+	<remarks/>
+</member><member name="E:FileUpload.FileUpload.MLhuillier.GetDateCompleted">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.FileUpload(System.String[],System.String,System.String)">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.FileUploadAsync(System.String[],System.String,System.String)">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.FileUploadAsync(System.String[],System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.ListofPartners">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.ListofPartnersAsync">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.ListofPartnersAsync(System.Object)">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.GetDate">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.GetDateAsync">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.GetDateAsync(System.Object)">
+	<remarks/>
+</member><member name="M:FileUpload.FileUpload.MLhuillier.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.MLhuillier">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.UploadFile.response">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.UploadFile.msg">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.UploadFile.BatchNumber">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.UploadFile.data">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.UploadFile">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.getserverDate.getfromDateServer">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.getserverDate">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.getSearchPartners.AccountName">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.getSearchPartners">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.getArrayClass.getarr">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.getArrayClass.dataItem">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.getArrayClass">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.SearchPartners.respcode">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.SearchPartners.message">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.SearchPartners.batchNo">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.SearchPartners.ErrorDetail">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.SearchPartners.getDate">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.SearchPartners.Data">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.SearchPartners.ReturnData">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.SearchPartners">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.FileUploadCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.FileUploadCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.FileUploadCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.ListofPartnersCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.ListofPartnersCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.ListofPartnersCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.GetDateCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FileUpload.FileUpload.GetDateCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FileUpload.FileUpload.GetDateCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

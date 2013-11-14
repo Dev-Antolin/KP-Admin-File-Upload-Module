@@ -1,0 +1,119 @@
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.frmUpload.resources
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.Resources.resources
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.exe.config
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+D:\lllllllllllllll\File Uploadappform\File Upload\bin\Release\FileUpload.exe.config
+D:\lllllllllllllll\File Uploadappform\File Upload\bin\Release\FileUpload.exe
+D:\lllllllllllllll\File Uploadappform\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+D:\lllllllllllllll\File Uploadappform\File Upload\bin\Release\FileUpload.pdb
+D:\lllllllllllllll\File Uploadappform\File Upload\bin\Release\FileUpload.xml
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\ResolveAssemblyReference.cache
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\FileUpload.frmUpload.resources
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\FileUpload.Resources.resources
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\FileUpload.exe
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\FileUpload.xml
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\FileUpload.pdb
+D:\lllllllllllllll\File Uploadappform\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+D:\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+D:\FileUploadFinal\File Upload\bin\Release\FileUpload.exe
+D:\FileUploadFinal\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+D:\FileUploadFinal\File Upload\bin\Release\FileUpload.pdb
+D:\FileUploadFinal\File Upload\bin\Release\FileUpload.xml
+D:\FileUploadFinal\File Upload\obj\Release\ResolveAssemblyReference.cache
+D:\FileUploadFinal\File Upload\obj\Release\FileUpload.frmUpload.resources
+D:\FileUploadFinal\File Upload\obj\Release\FileUpload.Resources.resources
+D:\FileUploadFinal\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+D:\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+D:\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+D:\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+D:\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.exe
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.pdb
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.xml
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\ResolveAssemblyReference.cache
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.frmUpload.resources
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.Resources.resources
+F:\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\bin\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.frmUpload.resources
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.Resources.resources
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\fromKP\FileUpload_Latest_SirPao\kpPrograms\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+E:\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+E:\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+E:\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+E:\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+E:\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+C:\Users\ml\Desktop\upload file\jan3,2013\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+C:\Users\ml\Desktop\upload file\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+C:\Users\ml\Desktop\upload file\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+C:\Users\ml\Desktop\upload file\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+C:\Users\ml\Desktop\upload file\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+C:\Users\kentoy\Desktop\jan3,2013\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+C:\Users\kentoy\Desktop\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\jan3,2013\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+E:\File Upload\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+E:\File Upload\FileUploadFinal\File Upload\bin\Release\FileUpload.exe
+E:\File Upload\FileUploadFinal\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+E:\File Upload\FileUploadFinal\File Upload\bin\Release\FileUpload.pdb
+E:\File Upload\FileUploadFinal\File Upload\bin\Release\FileUpload.xml
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\ResolveAssemblyReference.cache
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\FileUpload.frmUpload.resources
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\FileUpload.Resources.resources
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+E:\File Upload\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\bin\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\bin\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\bin\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\FileUpload.frmUpload.resources
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\FileUpload.Resources.resources
+C:\Users\kentoy\Desktop\File Upload for alpha\FileUploadFinal\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\bin\Release\FileUpload.exe.config
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\bin\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\bin\Release\FileUpload.XmlSerializers.dll
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\bin\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\bin\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\FileUpload.frmUpload.resources
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\FileUpload.Resources.resources
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\FileUpload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Upload Final\FileUploadFinal\File Upload\obj\Release\FileUpload.XmlSerializers.dll
