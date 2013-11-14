@@ -1,0 +1,10 @@
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\File Upload.vbproj.GenerateResource.Cache
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.Form1.resources
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.Resources.resources
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.xml
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.pdb
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\bin\Release\FileUpload.exe
+C:\Users\kentoy\Desktop\File Uploadappform\File Upload\obj\Release\FileUpload.exe
